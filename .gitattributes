@@ -1,0 +1,5 @@
+*.sh text eol=lf
+*.js text eof=lf
+*.jsx text eof=lf
+*.ts text eof=lf
+*.tsx text eof=lf
